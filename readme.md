@@ -1,4 +1,4 @@
-# Public Domain Desktop Maps (Work in progress)
+# Public-Domain Desktop Maps (Work in progress)
 
 This project will contain code for creating several maps that can serve as desktop backgrounds. (All of these maps can be downloaded from the [maps](https://github.com/kburchfiel/desktop_maps/tree/main/maps) folder.) These maps are meant to be aesthetically pleasing (to me, at least!) rather than informative. If you'd like to learn how to generate more 'useful' maps, visit the [Mapping](https://github.com/kburchfiel/pfn/tree/main/Mapping) section of my Python for Nonprofits guide.
 
