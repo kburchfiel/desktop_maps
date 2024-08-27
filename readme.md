@@ -7,6 +7,20 @@ One notable feature of these maps is that they use *only* public-domain source d
 
 ## Maps created within this project so far:
 
+US Urban Area Outlines (filename: urban_areas.png)
+<img src="https://raw.githubusercontent.com/kburchfiel/desktop_maps/main/maps/urban_areas.png" width="1000"/>
+
+
+
+US Counties (filename: counties.png)
+<img src="https://raw.githubusercontent.com/kburchfiel/desktop_maps/main/maps/counties.png" width="1000"/>
+
+
 
 US State Boundaries and Interstate Highways (filename: states_and_roads.png)
 <img src="https://raw.githubusercontent.com/kburchfiel/desktop_maps/main/maps/states_and_roads.png" width="1000"/>
+
+
+
+Central Points of US Urban Areas (filename: urban_area_dots.png)
+<img src="https://raw.githubusercontent.com/kburchfiel/desktop_maps/main/maps/urban_area_dots.png" width="1000"/>
